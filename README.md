@@ -1,6 +1,7 @@
 # Monorepo_boilder_plate
 
 installation
+pnpm install
 
 -- to run server
 pnpm run server
