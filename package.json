@@ -1,0 +1,16 @@
+{
+  "name": "Jovol",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+	"web":"pnpm --filter web dev",
+	"server":"pnpm --filter server dev",
+	"app":"pnpm --filter app dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.15.0"
+}
